@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="pi@192.168.0.101:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="$USER_HOME$/pynaoqi-python2.7-2.5.7.1-linux64/lib/python2.7/site-packages" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.0.166:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="$USER_HOME$/pynaoqi-python2.7-2.5.7.1-linux64/lib/python2.7/site-packages" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.8.146:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="$USER_HOME$/pynaoqi-python2.7-2.5.7.1-linux64/lib/python2.7/site-packages" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.8.159:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="$USER_HOME$/pynaoqi-python2.7-2.5.7.1-linux64/lib/python2.7/site-packages" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
