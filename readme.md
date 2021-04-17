@@ -27,4 +27,9 @@ Returns a signal ID that can be used to disconnect
 
 
 on[event] functions already return a signal to which a function can be connected
+
 ```
+
+# Robot file system
+
+![](doc_files/Selection_323.png) 

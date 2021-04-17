@@ -96,6 +96,12 @@ class Robot:
         self.logger.write('log.html')
 
     def show_message(self, a, b):
+
+        # I think the next line caused the issue with the tablet.
+        # The function show_message creates an html page that is saved in a local folder on my laptop. I run a http server in that folder
+        # That allows me to show the webpage on the robot's tablet.
+
+
         self.tablet._enableResetTablet(0)
         url = Messages.html_message(a, b)
         self.tablet.showWebview(url)
