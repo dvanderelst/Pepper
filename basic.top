@@ -1,0 +1,8 @@
+topic: ~introduction ()
+language:enu
+include: lexicon_enu.top
+
+u:(~hello) ~hello ~what_is_your_name
+u:(~myname) ~myname
+u:(~no) ~no
+u:(~yes) ~yes
